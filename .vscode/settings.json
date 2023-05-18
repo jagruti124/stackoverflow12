@@ -1,0 +1,8 @@
+{
+    "gitlens.virtualRepositories.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.scrollable": false,
+    "gitlens.integrations.enabled": false,
+    "gitlens.advanced.caching.enabled": false,
+    "git.enabled": false
+}
